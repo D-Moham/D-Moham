@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-Moham
 - 👀 I’m interested in learning to code and preparing myself for software developing
-- 🌱 I’m currently a 3rd year comp sci major
+- 🌱 I’m currently a 5th year comp sci major
 - 📫 Don't plan on doing any collaborations but when the time comes I'll update my contact info.
 
 <!---
