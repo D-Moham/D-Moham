@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D-Moham
-- 👀 I’m interested in learning to code and preparing myself for software developing
-- 🌱 I’m currently a Computer Science and English Major finishing up next semester
-- 📫 Don't plan on doing any collaborations but when the time comes I'll update my contact info.
+- 👀 I code every now and then
+- 🌱 I’m currently a Computer Science and English Major finishing December 2024
+- 📫 Currently not accepting Collaborations
 
 <!---
 D-Moham/D-Moham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
